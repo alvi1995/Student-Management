@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1633338019 source:d:\studentmanagement\main.c
+	"otherHeaders.h"
+	"variable.h"
+	"functions.h"
+
+1633335021 d:\studentmanagement\others.h
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+
+1633334906 source:d:\studentmanagement\gotoxy.c
+	"others.h"
+
+1633335144 d:\studentmanagement\otherheaders.h
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+
+1633344631 d:\studentmanagement\variable.h
+
+1633345767 d:\studentmanagement\functions.h
+
+1633338065 source:d:\studentmanagement\testextern.c
+	"otherHeaders.h"
+	"variable.h"
+	"functions.h"
+
+1633346161 source:d:\studentmanagement\menu.c
+	"otherHeaders.h"
+	"functions.h"
+
+1633338414 source:d:\studentmanagement\title.c
+	"otherHeaders.h"
+	"variable.h"
+	"functions.h"
+
+1633345246 source:d:\studentmanagement\edit_record.c
+	"otherHeaders.h"
+	"variable.h"
+	"functions.h"
+
+1633347159 source:d:\studentmanagement\display_record.c
+	"otherHeaders.h"
+	"variable.h"
+	"functions.h"
+
+1633346633 source:d:\studentmanagement\table.c
+	"functions.h"
+	"otherHeaders.h"
+	"variable.h"
+
